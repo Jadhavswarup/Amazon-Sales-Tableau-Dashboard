@@ -47,6 +47,8 @@ To explore the dashboard:
 	1.	Open the .twbx file using Tableau Desktop Public Edition.
 	2.	Navigate through the different sheets and dashboards to view metrics.
 
+ https://public.tableau.com/app/profile/swarup.jadhav/viz/tableauBook2_17472278923360/Dashboard1
+
  Screenshot
 
  ![dashboard screenshot](https://github.com/Jadhavswarup/Amazon-Sales-Tableau-Dashboard/blob/main/Screenshot%20(10).png)
