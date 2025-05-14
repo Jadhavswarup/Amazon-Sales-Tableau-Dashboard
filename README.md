@@ -49,4 +49,4 @@ To explore the dashboard:
 
  Screenshot
 
- ![dashboard screenshot]
+ ![dashboard screenshot](https://github.com/Jadhavswarup/Amazon-Sales-Tableau-Dashboard/blob/main/Screenshot%20(10).png)
